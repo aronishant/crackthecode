@@ -13,7 +13,7 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        if (palindrome(121)) {
+        if (palindrome(404)) {
             System.out.println("The entered number is palindrome");
         } else {
             System.out.println("Number is not palindrome");
