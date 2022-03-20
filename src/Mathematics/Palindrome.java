@@ -1,4 +1,4 @@
-package Numbers;
+package Mathematics;
 
 public class Palindrome {
     public static boolean palindrome(int num) {

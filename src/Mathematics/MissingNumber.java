@@ -1,4 +1,4 @@
-package Numbers;
+package Mathematics;
 
 public class MissingNumber {
 
