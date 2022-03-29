@@ -1,4 +1,4 @@
-package Mathematics;
+package Recursion;
 
 public class EuclidGCD {
     public static int gcd(int a,int b)
