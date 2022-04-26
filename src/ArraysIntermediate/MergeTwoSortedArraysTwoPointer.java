@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/merge-sorted-array/
-package Arrays;
+package ArraysIntermediate;
 
 import java.util.Arrays;
 

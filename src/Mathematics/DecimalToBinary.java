@@ -18,6 +18,6 @@ public class DecimalToBinary {
     }
 
     public static void main(String[] args) {
-        convertDecToBinary(8);
+        convertDecToBinary(0);
     }
 }

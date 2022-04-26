@@ -1,7 +1,7 @@
 /*https://leetcode.com/problems/two-sum/*/
 
 
-package Arrays;
+package ArraysIntermediate;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -22,7 +22,7 @@ public class TwoSumWithHashMap {
     }
     public static void main(String[] args) {
 
-        System.out.println(Arrays.toString(twoSums(new int[]{1,4,5},5)));
+        System.out.println(Arrays.toString(twoSums(new int[]{5,4,1},5)));
     }
 }
 // Time complexity

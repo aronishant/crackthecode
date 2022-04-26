@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysIntermediate;
 
 public class MinMaxInArray {
 

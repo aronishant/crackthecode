@@ -1,4 +1,4 @@
-package Arrays;
+package ArraysIntermediate;
 
 import java.util.Arrays;
 
@@ -29,7 +29,6 @@ public class Power {
         System.out.println(index);
 
     }
-
 
     public static void main(String[] args) {
         calpow(new int[]{2, 10, 3, 7});
